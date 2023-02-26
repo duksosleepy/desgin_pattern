@@ -1,2 +1,1 @@
-# desgin_pattern
-Python Design Patterns
+My notes in series Python Design Patterns https://python-patterns.guide/ 
